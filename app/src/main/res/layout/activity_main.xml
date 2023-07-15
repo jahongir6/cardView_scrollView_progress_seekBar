@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--   <ProgressBar
+           android:layout_width="match_parent"
+           android:layout_height="30dp"
+           android:id="@+id/myProgres"
+           android:progress="45"
+           style="@style/Widget.AppCompat.ProgressBar.Horizontal"/>
+   -->
+    <!--    bu rotation qiymat bersan buriladi 90 gradus ga va hokazo-->
+    <!--   <SeekBar
+           android:id="@+id/myseekbar"
+           style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="30dp"
+           android:rotation="0" />-->
+    <!--    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="dfggdgldgdigdgsdgsdmbklkdsmblsmbsggdg
+    gsdgsdgbslblbmflmbmdbfmbdfmbdfkmblfmbkldfmbldfmbldfmblmdf
+    lbmdflbmlfmbfmbldfmblmdflbkmdfblkmfklbmdflbmldfdbmlfmblkfmbldmb
+    lfbkmkldfbfdlkbmdfbfdbmdfkmbmdlkfbmmdfmbdfmbmdlflmbdlfmbldfbmdkfmbldmbdmbmdbmbmdbmlka
+    jhoigrgqalajiafefeyaafsasachasicasc ufnekvuturvwviovmdsvsyueripsanmi nimag "
+                android:textSize="50sp" />
+        </ScrollView>-->
+   <!-- <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:outlineSpotShadowColor="@color/purple_200"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="20dp" />-->
+</LinearLayout>
